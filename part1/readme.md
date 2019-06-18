@@ -24,7 +24,7 @@ pre qualification
 
 2. 리눅스 버전
 
-![](리눅스버전.png)
+![](리눅스버전.PNG)
 
 3. 마스터 노드 capa
 
