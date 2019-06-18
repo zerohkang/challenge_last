@@ -20,7 +20,7 @@ pre qualification
 
 1. IP목록 DNS이름
 
-![](DNS리스트.png)
+![](DNS리스트.PNG)
 
 2. 리눅스 버전
 
